@@ -2,7 +2,10 @@
 <suite name="Suite" parallel="false">
     <test name="Test">
         <classes>
-            <class name="test.NewTest"/>
+            <class name="GmailTests.deleteNonImpMail"/>
         </classes>
+        <!--<classes>-->
+            <!--<class name="test.NewTest"/>-->
+        <!--</classes>-->
     </test> <!-- Test -->
 </suite> <!-- Suite -->
