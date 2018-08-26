@@ -1,25 +1,22 @@
 package testBase;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import Utilities.Driver;
 import org.testng.annotations.AfterClass;
-
-import java.sql.DriverManager;
-import java.util.concurrent.TimeUnit;
+import org.testng.annotations.BeforeClass;
 
 public class BaseTest {
-    protected static WebDriver driver;
 
-
-    public BaseTest() {
-        System.setProperty("webdriver.chrome.driver", "/Users/sumit.kumar/lithium/SumitPersonal/chromedriver");
-        driver = new ChromeDriver();
+    @BeforeClass(alwaysRun = true)
+    public static void setup()
+    {
+        Driver.initilize();
     }
 
     @AfterClass
-    public void afterClass() {
-        driver.quit();
+    public void cleanUp()
+    {
+        Driver.close();
     }
+
 
 }

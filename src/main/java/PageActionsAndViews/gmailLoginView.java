@@ -1,16 +1,18 @@
 package PageActionsAndViews;
 
+import Utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import testBase.driverInitilazation;
+import testBase.BaseTest;
 
-public class gmailLoginView extends driverInitilazation {
+import java.util.List;
+
+public class gmailLoginView extends Driver {
 
     WebElement emailInput = driver.findElement(By.id("identifierId"));
 
-    WebElement nextButton = driver.findElement(By.className("ZFr60d CeoRYc"));
+    List<WebElement> nextButton = driver.findElements(By.className("CwaK9"));
 
-    WebElement passwordTextBox = driver.findElement(By.name("password"));
 
 }
