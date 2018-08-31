@@ -1,5 +1,6 @@
 package Utilities;
 
+import config.ConfigFileReader;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -10,6 +11,7 @@ public class Driver {
 
     public static WebDriver driver = null;
     public static String browser = "chrome";
+    public static ConfigFileReader configFileReader = new ConfigFileReader();
 
     public Driver()
     {
@@ -28,7 +30,7 @@ public class Driver {
 
             else if (browser.equalsIgnoreCase("chrome"))
             {
-                System.setProperty("webdriver.chrome.driver", "/Users/sumit.kumar/lithium/SumitPersonal/chromedriver");
+                System.setProperty("webdriver.chrome.driver", configFileReader.getDriverPath());
                 driver = new ChromeDriver();
             }
 

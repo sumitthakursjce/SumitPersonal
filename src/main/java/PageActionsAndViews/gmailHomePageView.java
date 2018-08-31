@@ -10,8 +10,12 @@ public class gmailHomePageView extends Driver {
 
     WebElement checkBoxForSelectingGamil = driver.findElement(By.cssSelector(".oZ-jc.T-Jo.J-J5-Ji"));
 
-    WebElement deleteMail = driver.findElement(By.cssSelector(".T-I.J-J5-Ji.nX.T-I-ax7.T-I-Js-Gs.W6eDmd.T-I-Zf-aw2"));
+//    WebElement deleteMail = driver.findElement(By.cssSelector(".T-I.J-J5-Ji.nX.T-I-ax7.T-I-Js-Gs.W6eDmd.T-I-Zf-aw2"));
 
     String scriptForIdentifyingNonImpMail = "document.querySelectorAll('[aria-label= \"Not important\"]')";
+
+    String scriptForIdentifyingDeleleElment = "document.querySelectorAll('[aria-label= \"Delete\"]')";
+
+
 
 }

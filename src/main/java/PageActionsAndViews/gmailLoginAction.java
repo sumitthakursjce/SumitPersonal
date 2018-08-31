@@ -1,5 +1,6 @@
 package PageActionsAndViews;
 
+import config.ConfigFileReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,10 +8,11 @@ import org.openqa.selenium.WebElement;
 import java.util.List;
 
 public class gmailLoginAction extends gmailLoginView{
+    public static ConfigFileReader configFileReader = new ConfigFileReader();
 
     public void enterEmailORPhone()
     {
-        emailInput.sendKeys("xyz@gmail.com");
+        emailInput.sendKeys(configFileReader.getGmailEmailId());
     }
 
     public void clickNext()
@@ -21,7 +23,7 @@ public class gmailLoginAction extends gmailLoginView{
     public void enterPassword()
     {
         WebElement passwordTextBox = driver.findElement(By.name("password"));
-        passwordTextBox.sendKeys("password");
+        passwordTextBox.sendKeys(configFileReader.getGmailPassword());
     }
 
     public void submit()
