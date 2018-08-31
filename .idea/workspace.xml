@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1806eae-04d8-4787-b5ba-e83ae120200f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/config/ConfigFileReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/config/config.properties" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SumitPersonal.iml" afterPath="$PROJECT_DIR$/SumitPersonal.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" afterPath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" afterPath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java" afterPath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/Driver.java" afterPath="$PROJECT_DIR$/src/main/java/Utilities/Driver.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" afterPath="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailHomePageAction.class" afterPath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailHomePageAction.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailHomePageView.class" afterPath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailHomePageView.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailLoginAction.class" afterPath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailLoginAction.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailLoginView.class" afterPath="$PROJECT_DIR$/target/classes/PageActionsAndViews/gmailLoginView.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/Driver.class" afterPath="$PROJECT_DIR$/target/classes/Utilities/Driver.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testBase/BaseTest.class" afterPath="$PROJECT_DIR$/target/classes/testBase/BaseTest.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GmailTests/deleteNonImpMail.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/NewTest.class" afterPath="" />
-    </list>
+    <list default="true" id="e1806eae-04d8-4787-b5ba-e83ae120200f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deleteNonImpMail.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deleteNonImpMail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,11 +98,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NewTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/NewTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -171,8 +161,8 @@
         <option value="$PROJECT_DIR$/src/main/java/config/ConfigFileReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
       </list>
     </option>
   </component>
@@ -181,6 +171,12 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="nexus" />
+        <option value="maven" />
+      </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -643,9 +639,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 18m 03s.xml">
-      <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 18m 42s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -673,9 +666,13 @@
     <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 57m 49s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 15h 01m 02s.xml">
+      <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -684,10 +681,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -807,16 +804,6 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/NewTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.3.0/selenium-api-3.3.0.jar!/org/openqa/selenium/WebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -954,14 +941,6 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testBase/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -986,13 +965,29 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/NewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>

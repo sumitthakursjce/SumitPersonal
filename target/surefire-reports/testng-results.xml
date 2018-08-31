@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="test.NewTest" duration-ms="10912" started-at="2018-08-31T09:32:18Z" finished-at="2018-08-31T09:32:29Z">
+  <suite name="test.NewTest" duration-ms="5996" started-at="2018-08-31T10:25:24Z" finished-at="2018-08-31T10:25:30Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="10912" started-at="2018-08-31T09:32:18Z" finished-at="2018-08-31T09:32:29Z">
+    <test name="Command line test" duration-ms="5996" started-at="2018-08-31T10:25:24Z" finished-at="2018-08-31T10:25:30Z">
       <class name="test.NewTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.NewTest@6b143ee9]" name="beforeClass" is-config="true" duration-ms="1458" started-at="2018-08-31T15:02:18Z" finished-at="2018-08-31T15:02:19Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.NewTest@6b143ee9]" name="beforeClass" is-config="true" duration-ms="1438" started-at="2018-08-31T15:55:24Z" finished-at="2018-08-31T15:55:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:test.NewTest@6b143ee9]" name="openMyBlog" duration-ms="9366" started-at="2018-08-31T15:02:19Z" finished-at="2018-08-31T15:02:29Z">
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:test.NewTest@6b143ee9]" name="openMyBlog" duration-ms="4468" started-at="2018-08-31T15:55:25Z" finished-at="2018-08-31T15:55:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openMyBlog -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.NewTest@6b143ee9]" name="afterClass" is-config="true" duration-ms="79" started-at="2018-08-31T15:02:29Z" finished-at="2018-08-31T15:02:29Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.NewTest@6b143ee9]" name="afterClass" is-config="true" duration-ms="82" started-at="2018-08-31T15:55:30Z" finished-at="2018-08-31T15:55:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

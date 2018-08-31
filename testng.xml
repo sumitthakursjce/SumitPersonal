@@ -4,8 +4,5 @@
         <classes>
             <class name="GmailTests.deleteNonImpMail"/>
         </classes>
-        <!--<classes>-->
-            <!--<class name="test.NewTest"/>-->
-        <!--</classes>-->
     </test> <!-- Test -->
 </suite> <!-- Suite -->
