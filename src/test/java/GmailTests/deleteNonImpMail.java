@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 import testBase.BaseTest;
 
 import java.util.List;
+import java.util.Set;
 
 public class deleteNonImpMail extends BaseTest{
     public static ConfigFileReader configFileReader = new ConfigFileReader();
@@ -47,7 +48,27 @@ public class deleteNonImpMail extends BaseTest{
     public void deleteMail() throws InterruptedException {
         Thread.sleep(10000);
         gmailHomePageAction gmailHomePageActions = new gmailHomePageAction();
-        List<Object> mailList = gmailHomePageActions.getJsExecutor();
+
+        Thread.sleep(5000);
+
+//        This should give list of all mails which are not imporant.
+//        List<Object> mailList = gmailHomePageActions.getJsExecutor();
+
+//        This should give of all non imporantant mail Index.
+
+//        Set set = gmailHomePageActions.isMailNotImp();
+//        System.out.print("should start printing");
+
+        gmailHomePageActions.filterNonImpMailThroughSearchBox();
+        Thread.sleep(5000);
+
+        gmailHomePageActions.selectAll();
+
+        Thread.sleep(3000);
+        gmailHomePageActions.deleleteSelectedMail();
+
+        Thread.sleep(5000);
+
 
     }
 }

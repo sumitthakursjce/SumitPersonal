@@ -3,37 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e1806eae-04d8-4787-b5ba-e83ae120200f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.NewTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-test.NewTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/Command line test.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/classes.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/groups.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/main.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/methods-alphabetical.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/methods-not-run.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/methods.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/reporter-output.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/testng.xml.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/test.NewTest/toc.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.NewTest.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.NewTest/Command line test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.NewTest/Command line test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/NewTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" afterPath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" afterPath="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" afterPath="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
+      <change beforePath="$PROJECT_DIR$/target/SumitPersonal-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/SumitPersonal-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GmailTests/deleteNonImpMail.class" afterPath="$PROJECT_DIR$/target/test-classes/GmailTests/deleteNonImpMail.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,30 +21,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gmailLoginAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding>
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gmailHomePageAction.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gmailHomePageAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="558">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#717#726#0" expanded="true" />
+                <element signature="e#1075#1076#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,20 +39,8 @@
       <file leaf-file-name="gmailHomePageView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gmailLoginView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,21 +51,11 @@
       <file leaf-file-name="deleteNonImpMail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -162,10 +101,10 @@
         <option value="$PROJECT_DIR$/src/main/java/config/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/config/ConfigFileReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -268,52 +207,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PageActionsAndViews" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SumitPersonal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SumitPersonal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="GmailTests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -512,34 +406,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 18m 42s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.04 at 21h 22m 47s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 19m 26s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.04 at 21h 23m 48s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 20m 18s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.04 at 21h 24m 40s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 20m 19s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.04 at 21h 28m 00s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 42m 17s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.04 at 21h 30m 24s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 44m 12s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.14 at 20h 40m 54s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 48m 15s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.14 at 20h 41m 48s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 57m 00s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.14 at 21h 11m 45s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 13h 57m 49s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.14 at 21h 31m 27s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.08.31 at 15h 01m 02s.xml">
+    <history-entry file="_Users_sumit_kumar_lithium_SumitPersonal_testng_xml - 2018.09.14 at 21h 38m 34s.xml">
       <configuration name="/Users/sumit.kumar/lithium/SumitPersonal/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -556,11 +450,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40193966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -611,12 +505,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java</url>
-          <line>13</line>
+          <line>48</line>
           <properties />
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -626,6 +520,37 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>driver.findElement(By.cssSelector(&quot;.T-Jo.J-J5-Ji.T-Jo-auq.T-Jo-iAfbIe&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver.findElements(By.cssSelector(&quot;.zA.yO .WA.xY .T-ays-a45 .aol&quot;));</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.openqa.selenium.By</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>params</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gmailHomePageActions.getJsExecutor();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mailList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
         <language-id>JAVA</language-id>
@@ -641,37 +566,6 @@
 jsExecutor.executeScript();</expression-string>
         <language-id>JAVA</language-id>
         <custom-info>org.openqa.selenium.JavascriptExecutor</custom-info>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>JavascriptExecutor jsExecutor = null;
-jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>scriptForIdentifyingNonImpMail</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>drive</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>browser</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getDriver()</expression-string>
-        <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
@@ -732,57 +626,6 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.3.0/selenium-api-3.3.0.jar!/org/openqa/selenium/JavascriptExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.3.0/selenium-remote-driver-3.3.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="476" column="41" lean-forward="false" selection-start-line="476" selection-start-column="41" selection-end-line="476" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testBase/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -831,23 +674,257 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.3.0/selenium-remote-driver-3.3.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="482" column="55" lean-forward="false" selection-start-line="482" selection-start-column="49" selection-end-line="482" selection-end-column="55" />
+          <folding>
+            <marker date="1534859710000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1534859710000" expanded="false" signature="150:2837" ph="..." />
+            <marker date="1534859710000" expanded="true" signature="3655:3864" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="3988:4970" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="5059:5148" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="5210:5221" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="5258:5264" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="5381:5504" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="5586:5707" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="5800:7699" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="7756:7954" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="7991:8002" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="8024:8030" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="8081:8092" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="8134:8140" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="8208:8283" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="8386:9972" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="10007:10014" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="10116:10151" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="10185:10192" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="10293:10327" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="10370:10381" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10406:10412" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="10467:10478" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10506:10512" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="10561:10572" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10593:10599" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="10664:10675" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10700:10706" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="10749:10760" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10785:10791" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="10824:10835" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="10884:10890" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="10921:11080" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="11116:11416" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="11503:12192" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="12241:12252" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="12281:12287" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="12329:12340" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="12368:12374" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="12438:13111" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="13211:13352" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="13423:14273" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="14317:14646" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="14699:14710" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="14747:14753" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="14813:14824" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="14862:14868" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="14927:14938" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="14982:14988" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="15054:15065" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15110:15116" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="15183:15251" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="15325:15394" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="15452:15463" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15506:15512" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="15577:15588" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15632:15638" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="15693:15704" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15743:15749" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="15811:15822" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15862:15868" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="15928:15939" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="15984:15990" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16057:16068" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16114:16120" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16182:16193" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16240:16246" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16315:16326" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16374:16380" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16436:16447" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16487:16493" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16556:16567" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16608:16614" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16649:16660" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16716:16722" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="16747:16758" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="16780:16786" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="16811:17035" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="17079:17482" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="17519:17530" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="17603:17609" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="17674:18271" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="18341:18930" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="18973:18984" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19031:19037" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19074:19085" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19134:19140" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19174:19185" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19235:19241" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19270:19281" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19333:19339" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19416:19427" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19454:19460" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19523:19534" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19556:19562" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="19604:19615" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="19634:19640" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="19722:22620" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="22668:22679" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="22727:22733" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="22781:22792" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="22818:22824" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="22879:22890" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="22951:22957" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="22992:23003" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="23036:23042" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="23077:23088" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="23109:23115" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="23144:23155" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="23173:23179" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="23286:23980" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="24023:24034" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="24059:24065" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="24096:24337" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="24367:24460" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="24443:24454" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="24509:25728" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="24540:24551" ph="{}" />
+            <marker date="1534859710000" expanded="false" signature="24582:24597" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="24642:24652" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="24682:24697" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="24741:24751" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="24784:24799" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="24870:24880" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="24930:25037" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="25113:25559" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="25638:25722" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="25795:28828" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="25837:25848" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="25897:26043" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="26094:26800" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="26858:27097" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="27138:27255" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="27316:28204" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="28248:28474" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="28518:28663" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="28694:28822" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="28887:29422" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="28924:28935" ph="{}" />
+            <marker date="1534859710000" expanded="false" signature="28963:28978" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29017:29027" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="29058:29073" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29115:29125" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="29161:29176" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29206:29216" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="29249:29264" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29310:29320" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="29351:29366" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29406:29416" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="29486:36167" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="29531:29542" ph="{}" />
+            <marker date="1534859710000" expanded="false" signature="29584:29599" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="29638:29648" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="29695:29827" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="29880:29980" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="30029:30044" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="30085:30095" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="30135:30150" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="30199:30209" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="30251:31684" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="31736:32117" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="32153:32168" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="32235:32245" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="32278:32293" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="32370:32380" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="32426:32441" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="32506:32516" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="32587:34201" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="32669:32684" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="32740:32898" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="32958:33103" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="33144:33518" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="33559:33941" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="33977:33996" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="34050:34064" ph=" }" />
+            <marker date="1534859710000" expanded="false" signature="34102:34121" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="34177:34191" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="34262:35113" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="34303:34318" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="34389:34579" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="34652:34840" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="34912:35103" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="35186:36161" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="35237:35252" ph="{}" />
+            <marker date="1534859710000" expanded="true" signature="35308:35465" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="35511:35666" ph="{...}" />
+            <marker date="1534859710000" expanded="true" signature="35709:35861" ph="{...}" />
+            <marker date="1534859710000" expanded="false" signature="35899:35918" ph=" { " />
+            <marker date="1534859710000" expanded="false" signature="35964:35978" ph=" }" />
+            <marker date="1534859710000" expanded="true" signature="36034:36151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.3.0/selenium-api-3.3.0.jar!/org/openqa/selenium/JavascriptExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailLoginAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-197">
           <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#439#440#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="187">
+          <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -856,19 +933,32 @@ jsExecutor.executeScript(scriptForIdentifyingNonImpMail);</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GmailTests/deleteNonImpMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="199">
+          <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PageActionsAndViews/gmailHomePageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#717#726#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
